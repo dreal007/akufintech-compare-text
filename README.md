@@ -24,7 +24,7 @@ To install MYSQL, Visit [here](https://www.digitalocean.com/community/tutorials/
 After the installation of the prerequisites, clone the repository
 
 ```bash
-sudo git clone https://github.com/dreal007/compare-text.git
+sudo git clone https://github.com/dreal007/akufintech-compare-text.git
 ```
 
 - Change directory to the project's folder
