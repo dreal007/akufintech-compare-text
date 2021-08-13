@@ -65,7 +65,7 @@
       }
     }
 
-    return (2.0 * intersectionSize) / (first.length + second.length - 2);
+    return (2.0 * intersectionSize) / ((first.length + second.length) / 2);
   }
 
 /**
